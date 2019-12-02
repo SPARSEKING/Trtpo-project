@@ -16,7 +16,7 @@
 <a name="1"/>
 
 Рисунок 1.
-![Рисунок 1](./Images/Profile.png)
+![Рисунок 1](../Images/Profile.png)
 
 <a name="2"/>
 
@@ -26,7 +26,7 @@
 <a name="3"/>
 
 Рисунок 3.
-![Рисунок 3](../Images/ProfileData.png)
+![Рисунок 3](../Images/PorfileData.png)
 
 <a name="4"/>
 
