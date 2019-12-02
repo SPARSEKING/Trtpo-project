@@ -16,7 +16,7 @@
 <a name="1"/>
 
 Рисунок 1.
-![Рисунок 1](../Images/Profile.PNG)
+![Рисунок 1](./Images/Profile.PNG)
 
 <a name="2"/>
 
