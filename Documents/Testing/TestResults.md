@@ -16,29 +16,29 @@
 <a name="1"/>
 
 Рисунок 1.
-![Рисунок 1](./Images/Profile.PNG)
+![Рисунок 1](./Images/Profile.png)
 
 <a name="2"/>
 
 Рисунок 2.
-![Рисунок 2](../Images/Login.PNG)
+![Рисунок 2](../Images/Login.png)
 
 <a name="3"/>
 
 Рисунок 3.
-![Рисунок 3](../Images/ProfileData.PNG)
+![Рисунок 3](../Images/ProfileData.png)
 
 <a name="4"/>
 
 Рисунок 4.
-![Рисунок 4](../Images/Posts.PNG)
+![Рисунок 4](../Images/Posts.png)
 
 <a name="5"/>
 
 Рисунок 5.
-![Рисунок 5](../Images/Message.PNG)
+![Рисунок 5](../Images/Message.png)
 
 <a name="6"/>
 
 Рисунок 6.
-![Рисунок 6](../Images/Friends.PNG)
+![Рисунок 6](../Images/Friends.png)
