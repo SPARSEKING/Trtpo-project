@@ -5,7 +5,7 @@
 # Содержание
 1 [Документация](Documents)  
 1.1 [Требования](requirements.pdf)  
-1.2 [Диаграммы](Documents/System%20project.README.md)  
+1.2 [Диаграммы](Documents/System%20project/README.md)  
 2 [Код](Documents/Messenger)   
 3 [Информация о тестировании](Documents/Testing)  
 3.1 [План тестирования](Documents/Testing/TestPlan.md)  
